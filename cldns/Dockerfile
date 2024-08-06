@@ -1,2 +1,2 @@
-FROM docker.io/timothyjmiller/cloudflare-ddns:3.12.1
+FROM docker.io/timothyjmiller/cloudflare-ddns:v1.0.3
 MAINTAINER Q
